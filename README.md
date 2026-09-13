@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou a Alice! 👋</h1>
+<h1 align="center">Olá, eu sou a Alice!</h1>
 
 <h3 align="center">Estudante de Ciência da Computação | Foco em Java & Backend</h3>
 
