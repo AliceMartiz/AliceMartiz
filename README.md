@@ -26,7 +26,7 @@
 - 💻 Foco em **desenvolvimento de software**, **Programação Orientada a Objetos (POO)** e **banco de dados**
 - 🔭 Buscando oportunidade de **estágio em desenvolvimento de software**, com foco em **Java**
 - 🌱 Aprimorando conhecimentos em **Java, SQL/PostgreSQL, C e Python**
-- 📫 Contato: [LinkedIn](https://www.linkedin.com/in/alicemartiz/) · alicesoaresmartinezgomes2020@gmail.com
+- 📫 Contato: [LinkedIn](https://www.linkedin.com/in/alicemartiz/) · alicemartiz.dev@gmail.com
 
 ---
 
