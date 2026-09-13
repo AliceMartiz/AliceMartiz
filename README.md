@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Buscando+oportunidade+de+Est%C3%A1gio+em+Dev;Java+%7C+PostgreSQL+%7C+POO;Sempre+aprendendo+algo+novo+%F0%9F%9A%80&font=Fira+Code&center=true&width=440&height=45&color=1F6FEB&vCenter=true&size=20" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Buscando+oportunidade+de+Est%C3%A1gio+em+Dev;Java+%7C+PostgreSQL+%7C+POO;Sempre+aprendendo+algo+novo+%F0%9F%9A%80&font=Fira+Code&center=true&width=600&height=50&color=1F6FEB&vCenter=true&size=19" alt="Typing SVG" />
 </p>
 
 ---
